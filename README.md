@@ -15,7 +15,6 @@ An online plant shop offering a variety of houseplants.
 
 ## 🛠️ Technologies Used
 - React.js
-- 
 ---
 
 ## 🚀 Getting Started
